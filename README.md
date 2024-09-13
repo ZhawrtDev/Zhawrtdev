@@ -1,6 +1,10 @@
 ## Opa eu sou o Moises Queiroz 👋
 
-**Desinvolvedor de Software** [Portifolio](https://zhwart.netlify.app/)
+** Desenvolvedor de Software ** ,
+Iniciando no desenvolvimento em 2022, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+
+Possuo foco em desenvolvimento com Javascript. React. React Native. Styled-Components.
+dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível. [Portifolio](https://zhwart.netlify.app/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Zhwart-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
