@@ -1,6 +1,6 @@
 ## Opa eu sou o Moises Queiroz 👋
 
-** Desenvolvedor de Software ** 
+**Desenvolvedor de Software** ,
 Iniciando no desenvolvimento em 2022, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
 
 Possuo foco em desenvolvimento com Javascript. React. React Native. Styled-Components.
