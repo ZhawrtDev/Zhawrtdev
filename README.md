@@ -1,4 +1,4 @@
-## Opa eu sou o Moises Queiroz 👋
+## Ola eu sou o Moises Queiroz
 
 **Desenvolvedor de Software** ,
 Iniciando no desenvolvimento em 2022, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
