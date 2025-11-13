@@ -29,3 +29,6 @@ dentre outras tecnologias que uso para criar aplicações web/mobile de alto ní
 Mesmo que meu GitHub não tenha tanta atividade, eu programo todos os dias.
 Tenho vários projetos SaaS que são privados não publico, então nem tudo aparecera aqui.
 Em 2024 fiz 1 SaaS e depois eu refiz ele, e em 2025 criei mais 4 — só deixei os repositórios de backend pra rodar em outras plataformas.
+
+A partir do dia 13/11/2025, vou começar a publicar meus projetos aqui no GitHub.
+A ideia é deixar meu trabalho mais visível e compartilhar parte do que venho desenvolvendo nesses últimos anos.
