@@ -26,7 +26,7 @@ dentre outras tecnologias que uso para criar aplicações web/mobile de alto ní
 
 
 ⚠️⚠️⚠️⚠️ AVISO:
-Mesmo que meu GitHub não tenha tanta atividade, eu programo todos os dias.
+Mesmo que meu GitHub não tenha tanta atividade, eu programo todos os dias desde 2022.
 Tenho vários projetos SaaS que são privados não publico, então nem tudo aparecera aqui.
 Em 2024 fiz 1 SaaS e depois eu refiz ele, e em 2025 criei mais 4 — só deixei os repositórios de backend pra rodar em outras plataformas.
 
